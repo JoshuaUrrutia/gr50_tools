@@ -139,6 +139,8 @@
         pval_IC[i] = f_pval
         R_square_IC[i] = 1 - RSS2/RSS1
       }
+    return(output_model_new_IC)
+      return(output_model_new)
     }
     #==================================
 
